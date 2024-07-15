@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "bsim4def.h": "c",
+        "cmath": "c",
+        "isrcext.h": "c",
+        "trandefs.h": "c",
+        "1-f-code.h": "c"
+    }
+}
